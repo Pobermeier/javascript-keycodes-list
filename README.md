@@ -1,4 +1,4 @@
-# JavaScript Keycodes
+# JavaScript Key Codes
 
 This repo consists only of a single file that exports a plain old JS-object which includes the most relevant keycodes available in EcmaScript. This list is not exhaustive though, but should be enough for most use cases. 
 
